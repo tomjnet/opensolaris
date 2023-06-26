@@ -1,2 +1,2 @@
 # opensolaris
-opensolaris UNIX Platforms
+OpenSolaris UNIX Platforms, The last official OpenSolaris code with pNFS
